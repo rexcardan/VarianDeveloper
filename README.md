@@ -21,12 +21,12 @@ This project is designed to :
 
 ## What's New?
 
-* **[09/08/2016]** Updated Export3D. Now it includes separate Bolus export with vertex normals, for 3D printing. Thank you *Nathan Smela*! 
+* **[09/08/2016]** Updated [Export3D](https://github.com/rexcardan/VarianDeveloper/blob/83a67c48fb30959b626d2c909068159f91b94e66/Eclipse%20Scripting%20API/plugins/Export3D.cs). Now it includes separate Bolus export with vertex normals, for 3D printing. Thank you *Nathan Smela*! 
 * **[07/21/2016]** See [Advanced ESAPI #2](https://www.youtube.com/watch?v=6LXhqgt0jT4&feature=youtu.be) on Youtube
 * **[03/17/2016]** Save the date for Varian Developer Workshop 2016! July 29th & 30th, Washington, D.C.
-* **[10/20/2015]** See EvilDICOM in ESAPI on Youtube for DICOM file exporting.
-* **[10/07/2015]** See Advanced ESAPI #1 on Youtube and source code on Oncopeer.com
-* **[06/10/2015]** Eclipse Scripting REPL (UAB VMS Console) Video and Source Code Posted
+* **[10/20/2015]** See [EvilDICOM in ESAPI](https://www.youtube.com/watch?v=DfcEX1Tnh9M) on Youtube for DICOM file exporting.
+* **[10/07/2015]** See [Advanced ESAPI #1](https://www.youtube.com/watch?v=iVAQf_bsaZg) on Youtube and source code on [Oncopeer.com](https://varian.force.com/DC/OCSDC_Home?dc=true)
+* **[06/10/2015]** Eclipse Scripting REPL [UAB VMS Console](https://www.youtube.com/watch?v=TVN8-O0eS50) Video and Source Code Posted
 * **[04/10/2015]** Corrected version of RBEReport. See the version comment.
 * **[04/01/2015]** Added code from Varian Research Symposium 2015 - TCP / NTCP Calculator Script and Automated Planning Demo.
 
