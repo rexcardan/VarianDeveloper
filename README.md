@@ -34,10 +34,11 @@ This project is designed to :
 * **[09/22/2014]** New project [StructureIdFrequency](https://variandeveloper.codeplex.com/SourceControl/latest#Eclipse Scripting API/projects/StructureIdFrequency/StructureIdFrequency.cs "StructureIdFrequency") for finding usage frequency of structure ids at your site.
 * **[09/04/2014]** New project [RBEReport](https://variandeveloper.codeplex.com/SourceControl/latest#Eclipse Scripting API/projects/RBEReport/), new article [Radiobiological Effect report and Aria Document post  
 ](https://variandeveloper.codeplex.com/wikipage?title=Radiobiological%20Effect%20report%20and%20Aria%20Document%20post&referringTitle=Documentation)
-* **[07/25/2014]**The [guru track code projects](https://variandeveloper.codeplex.com/SourceControl/latest#Developer Workshop 2.0/guru track projects/ "Guru Track Code Projects") from Developer Workshop 2.0 are available.  
+* **[07/25/2014]** The [guru track code projects](https://variandeveloper.codeplex.com/SourceControl/latest#Developer Workshop 2.0/guru track projects/ "Guru Track Code Projects") from Developer Workshop 2.0 are available.  
 * **[07/20/2014]** The [code for the hands-on exercises](https://variandeveloper.codeplex.com/SourceControl/latest#Developer Workshop 2.0/hands-on exercises/ "Hands-on Code") @ Developer Workshop 2.0 are available.  
 * **[07/01/2014]** A video tutorial on getting started with ESAPI in Windows Forms was posted on [Youtube.  
-](http://www.youtube.com/watch?v=uj_CTZjGsjY)**[06/30/2014]** See [Eclipse Scripting Tips and Tricks](https://variandeveloper.codeplex.com/wikipage?title=Eclipse%20Scripting%20Tips%20and%20Tricks), added [new tip for accessing application context from everywhere in your app.  
+](http://www.youtube.com/watch?v=uj_CTZjGsjY)
+* **[06/30/2014]** See [Eclipse Scripting Tips and Tricks](https://variandeveloper.codeplex.com/wikipage?title=Eclipse%20Scripting%20Tips%20and%20Tricks), added [new tip for accessing application context from everywhere in your app.  
 ](https://variandeveloper.codeplex.com/wikipage?title=Using%20a%20Singleton%20Pattern%20With%20ESAPI)
 * **[04/16/2014]** See [Eclipse Scripting Tips and Tricks](https://variandeveloper.codeplex.com/wikipage?title=Eclipse%20Scripting%20Tips%20and%20Tricks), added a [new tip for accessing dose voxel data for a structure](https://variandeveloper.codeplex.com/wikipage?title=Code%20Sample%20-%20Dose%20Voxel%20Data).  
 * **[02/28/2014]** New project [PlanQualityMetrics](https://variandeveloper.codeplex.com/SourceControl/latest#projects/PlanQualityMetrics/) generates an HTML plan quality report for the selected plan or plansum using QUANTEC style metrics.  
